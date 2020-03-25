@@ -416,6 +416,7 @@ def visualize_field(borefield):
     """
     import matplotlib.pyplot as plt
     from matplotlib.ticker import AutoMinorLocator
+    from mpl_toolkits.mplot3d import Axes3D
     # -------------------------------------------------------------------------
     # Initialize figure
     # -------------------------------------------------------------------------
